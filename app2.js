@@ -157,6 +157,7 @@ function checker(e) {
 }
 
 
+
 function removerClicks() {
   const boxes = document.querySelectorAll('.box');
   boxes.forEach(ele => {
